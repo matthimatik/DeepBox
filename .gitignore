@@ -1,0 +1,6 @@
+.venv/
+data/
+output/
+!output/default/scripts
+caffe-fast-rcnn/.build_release
+caffe-fast-rcnn/build
